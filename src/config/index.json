@@ -66,9 +66,9 @@
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Market Monitor",
+        "name": " Monitor",
         "description": "Keep abreast of important stock market activity, including breakouts, pullback buys and general market conditions with our real-time flash alerts. Stay Informed.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "icon": "/assets/images/marketmonitor.png"
       },
       {
         "name": "Logger",
