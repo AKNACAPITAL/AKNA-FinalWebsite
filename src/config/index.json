@@ -86,36 +86,38 @@
     "title": "Pricing",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
+        "name": "Basic",
+        "price": "Rs.99",
         "priceDetails": "for one month",
         "features": [
-          "1 user",
           "Basic Support",
-          "1 GB of storage",
+          "Access to curated stock recommendations",
+          "Weekly market insights and updates",
           "Email support"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
+        "name": "Standard",
+        "price": "Rs.999",
         "priceDetails": "per month",
 
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "All features of the Basic Plan",
+          "Sector-specific recommendations",
+          "Daily stock picks with detailed analysis",
+          "Access to exclusive webinars and educational materials",
+          "Whatsapp and Email support"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
+        "name": "Premium",
+        "price": "Rs.9999",
         "priceDetails": "per month",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
+          "All features of the Standard Plan",
+          "Real-time alerts on market developments and stock movements",
+          "Priority customer support with dedicated account manager",
+          "Quarterly one-on-one consultations with financial experts",
           "Phone and Email support"
         ]
       }
